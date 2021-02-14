@@ -6,6 +6,7 @@
 
 # **IMPORTANT**
 不接受对黑果安装之类的问题
+
 下载efi请从release下载
 
 # **Install**
