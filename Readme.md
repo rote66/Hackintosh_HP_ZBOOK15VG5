@@ -1,4 +1,4 @@
-# **Hackintosh 10.15 Catalina for HP ZHAN99 MOBILE WORKSTATION Zbook15VG5**
+# **Hackintosh for HP ZHAN99 MOBILE WORKSTATION Zbook15VG5**
 
 ============================================
 
