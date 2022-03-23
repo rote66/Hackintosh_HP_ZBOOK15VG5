@@ -2,7 +2,7 @@
 
 ============================================
 
-[**必看**（涉及到修改bios等）详细请移步至](https://xtremedev.top/default/107.html)
+[**必看**（涉及到修改bios等）详细请移步至](https://xtremedev.top/Hackintosh/107.html)
 
 # **IMPORTANT**
 不接受对黑果安装之类的问题
